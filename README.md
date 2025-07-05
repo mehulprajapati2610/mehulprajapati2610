@@ -28,4 +28,4 @@ Currently, I’m focused on:
 
 ### 📫 Let's Connect
 Feel free to reach out — always happy to connect, collaborate, or learn something new.  
-🔗 [LinkedIn](www.linkedin.com/in/mehul-prajapati-515945347)
+🔗www.linkedin.com/in/mehul-prajapati-515945347
