@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mehul Prajapati
 
-I'm a 3rd-year B.Tech Computer Science student with a growing passion for building real-world software.  
+I'm a B.Tech Computer Science student with a growing passion for building real-world software.  
 I enjoy exploring how systems work — from designing clean backend architectures to creating responsive web interfaces and managing data effectively.
 
 Currently, I’m focused on:
