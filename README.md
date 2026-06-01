@@ -18,17 +18,18 @@ I enjoy building applications that are clean, maintainable, and scalable while c
 
 ## 🏆 Featured Projects
 
-### ChatVerse
-
-A real-time AI-powered chat application focused on modern conversational experiences and clean backend integration.
-
-**Tech Stack:** Java, APIs, AI Integrations
-
 ### NeuroNudge
 
 An AI-driven burnout awareness project designed to analyze behavioral patterns and provide meaningful insights.
 
 **Tech Stack:** HTML, CSS, JavaScript, AI Concepts
+
+
+### ChatVerse
+
+A real-time AI-powered chat application focused on modern conversational experiences and clean backend integration.
+
+**Tech Stack:** Java, APIs, AI Integrations
 
 ---
 
