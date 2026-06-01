@@ -1,71 +1,109 @@
 # 👋 Hi, I'm Mehul Prajapati
 
-I'm a B.Tech Computer Science student specializing in **Backend Engineering, Systems Design, and Modern Software Workflows**. I build software with an emphasis on clarity, maintainability, and clean architecture, blending disciplined engineering principles with cutting-edge developer productivity tools.
+I'm a B.Tech Computer Science student focused on **Backend Development, Software Engineering, and System Design**.
+
+I enjoy building applications that are clean, maintainable, and scalable while continuously improving my understanding of backend architectures, databases, APIs, and modern development workflows.
 
 ---
 
-### 🚀 Engineering Philosophy & Modern Workflows
+## 🚀 What I'm Working On
 
-I focus on mastering **complete development lifecycles** rather than just isolated tech stacks. My approach combines foundational engineering rigor with next-generation workflows to build high-quality software faster and more reliably:
-
-* **Spec-Driven Development (SDD):** Designing comprehensive technical blueprints and rigid APIs before writing code to eliminate ambiguity and streamline execution.
-* **AI-Assisted Engineering:** Leveraging advanced AI systems, LLM integrations, and intelligent agent-driven workflows to accelerate prototyping, automate routine tasks, and amplify overall coding velocity without compromising quality.
-* **System Architecture:** Actively exploring scalable architecture patterns, object-oriented design, distributed systems, and clean coding principles.
-* **Rigorous Problem Solving:** Continuously sharpening my analytical thinking through advanced Data Structures & Algorithms (DSA) to write clean, performant, and scalable solutions.
-
----
-
-### 🛠️ My Tech Stack & Tooling
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Core Tech & Frameworks</strong>
-      <ul>
-        <li><strong>Languages:</strong> Java (Core Java), C++, Python, JavaScript</li>
-        <li><strong>Backend:</strong> Spring Boot, FastAPI, REST APIs</li>
-        <li><strong>Web Frontend:</strong> React, Tailwind CSS, JavaScript, HTML5/CSS3</li>
-        <li><strong>Databases:</strong> MongoDB, MySQL</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <strong>Developer Tooling & Workflows</strong>
-      <ul>
-        <li><strong>Version Control & CI/CD:</strong> Git, GitHub</li>
-        <li><strong>API & Architecture:</strong> Postman, Swagger / OpenAPI Spec</li>
-        <li><strong>AI & Automation:</strong> Cursor, Copilot, LLM Prompt Engineering, AI Code Agents</li>
-        <li><strong>Environments:</strong> VS Code, IntelliJ IDEA</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+* Building backend applications using **Java, Spring Boot, and REST APIs**
+* Strengthening my **Data Structures & Algorithms** problem-solving skills
+* Exploring **System Design** and scalable software architecture
+* Leveraging **AI-assisted development workflows** to improve productivity and accelerate learning
+* Practicing **Spec-Driven Development (SDD)** to design solutions before implementation
 
 ---
 
-### ⚡ Current Focus & Learning Goals
+## 🏆 Featured Projects
 
-* **Advanced Distributed Systems:** Deepening my understanding of message brokers, microservices architectural patterns, and structural scaling.
-* **Agentic Development Workflows:** Building and experimenting with automated developer tooling, multi-agent coding workflows, and self-correcting code pipelines.
-* **Cloud Deployment:** Implementing robust CI/CD pipelines and deploying full-stack architectures on modern platforms.
+### ChatVerse
 
----
+A real-time AI-powered chat application focused on modern conversational experiences and clean backend integration.
 
-### 🤝 Let's Connect
+**Tech Stack:** Java, APIs, AI Integrations
 
-I'm actively looking for **Software Engineering Internships / Roles** where I can contribute to real-world development teams, tackle challenging backend problems, and build impactful systems.
+### NeuroNudge
 
-* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mehul-prajapati-515945347)
-* **Email:** `prajapatimehul2610@gmail.com`
+An AI-driven burnout awareness project designed to analyze behavioral patterns and provide meaningful insights.
 
----
-*“The future of engineering belongs to those who pair deep computer science fundamentals with the leverage of modern automation and intelligent tooling.”*
-- Deploying apps on platforms like Heroku and Vercel  
-- Designing and testing REST APIs  
-- Sharpening my skills in advanced DSA patterns  
+**Tech Stack:** HTML, CSS, JavaScript, AI Concepts
 
 ---
 
-### 📫 Let's Connect
-Feel free to reach out — always happy to connect, collaborate, or learn something new.  
-🔗 [LinkedIn](https://www.linkedin.com/in/mehul-prajapati-515945347)
+## 🛠️ Tech Stack
 
+### Languages
+
+* Java
+* C++
+* Python
+* JavaScript
+
+### Backend
+
+* Spring Boot
+* FastAPI
+* REST APIs
+
+### Frontend
+
+* React
+* Tailwind CSS
+* HTML5
+* CSS3
+
+### Databases
+
+* MySQL
+* MongoDB
+
+### Tools
+
+* Git & GitHub
+* Postman
+* Swagger / OpenAPI
+* IntelliJ IDEA
+* VS Code
+* Cursor
+* GitHub Copilot
+
+---
+
+## 🤖 AI-Assisted Engineering
+
+I actively use AI tools to improve development workflows, accelerate research, prototype ideas faster, and automate repetitive tasks while maintaining a strong focus on software fundamentals and engineering best practices.
+
+---
+
+## 📋 Spec-Driven Development
+
+Before writing code, I prefer defining:
+
+* Requirements
+* API contracts
+* System workflows
+* Database structures
+
+This approach helps reduce ambiguity and improves maintainability as projects grow.
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Spring Boot
+* Distributed Systems Fundamentals
+* Microservices Concepts
+* Cloud Deployment & CI/CD
+* Advanced DSA Patterns
+* Scalable Backend Architecture
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/mehul-prajapati-515945347]
+* Email: [prajapatimehul2610@gmail.com](mailto:prajapatimehul2610@gmail.com)
+
+> Building strong engineering fundamentals while embracing modern tools and workflows.
