@@ -1,110 +1,90 @@
-# 👋 Hi, I'm Mehul Prajapati
+# MEHUL PRAJAPATI
 
-I'm a B.Tech Computer Science student focused on **Backend Development, Software Engineering, and System Design**.
+### Engineering software with curiosity and systems thinking.
 
-I enjoy building applications that are clean, maintainable, and scalable while continuously improving my understanding of backend architectures, databases, APIs, and modern development workflows.
+**Java • Spring Boot • System Design • Cloud Engineering**
 
----
-
-## 🚀 What I'm Working On
-
-* Building backend applications using **Java, Spring Boot, and REST APIs**
-* Strengthening my **Data Structures & Algorithms** problem-solving skills
-* Exploring **System Design** and scalable software architecture
-* Leveraging **AI-assisted development workflows** to improve productivity and accelerate learning
-* Practicing **Spec-Driven Development (SDD)** to design solutions before implementation
+* **Portfolio:** [https://mehuldev.me](www.mehuldev.me)
+* **LinkedIn:** [www.linkedin.com/in/mehul-prajapati-515945347](http://www.linkedin.com/in/mehul-prajapati-515945347)
+* **Email:** [prajapatimehul2610@gmail.com](mailto:prajapatimehul2610@gmail.com)
 
 ---
 
-## 🏆 Featured Projects
+## Current Mission
+
+Building reliable, maintainable, and scalable software while strengthening the engineering fundamentals behind modern backend systems. My focus is on understanding not only how software works, but why well-designed systems remain resilient as they grow.
+
+---
+
+## What I'm Working On
+
+* Developing backend applications using **Java, Spring Boot, and REST APIs**
+* Solving **Data Structures & Algorithms** to improve problem-solving and interview readiness
+* Learning **System Design** and scalable software architecture
+* Exploring **Cloud Engineering**, CI/CD, and deployment workflows
+* Using **AI-assisted development** to accelerate research, prototyping, documentation, and development without compromising engineering fundamentals
+
+---
+
+## Featured Projects
 
 ### NeuroNudge
 
-An AI-driven burnout awareness project designed to analyze behavioral patterns and provide meaningful insights.
+An AI-powered burnout awareness platform focused on analyzing behavioral patterns and providing meaningful insights through intelligent recommendations.
 
 **Tech Stack:** HTML, CSS, JavaScript, AI Concepts
 
+---
 
-### ChatVerse
+### DoseHope
 
-A real-time AI-powered chat application focused on modern conversational experiences and clean backend integration.
+A medicine donation and expiry management platform designed to reduce medicine waste through efficient tracking and donation workflows.
 
-**Tech Stack:** Java, APIs, AI Integrations
+**Tech Stack:** Java, Spring Boot, MongoDB, REST APIs
 
 ---
 
-## 🛠️ Tech Stack
+### Q-SKETCH
 
-### Languages
+An interactive quantum computing playground designed to make quantum concepts visual, intuitive, and engaging through circuit simulation and educational experiences.
 
-* Java
-* C++
-* Python
-* JavaScript
-
-### Backend
-
-* Spring Boot
-* FastAPI
-* REST APIs
-
-### Frontend
-
-* React
-* Tailwind CSS
-* HTML5
-* CSS3
-
-### Databases
-
-* MySQL
-* MongoDB
-
-### Tools
-
-* Git & GitHub
-* Postman
-* Swagger / OpenAPI
-* IntelliJ IDEA
-* VS Code
-* Cursor
-* GitHub Copilot
+**Tech Stack:** React, JavaScript, Tailwind CSS
 
 ---
 
-## 🤖 AI-Assisted Engineering
+## Engineering Principles
 
-I actively use AI tools to improve development workflows, accelerate research, prototype ideas faster, and automate repetitive tasks while maintaining a strong focus on software fundamentals and engineering best practices.
-
----
-
-## 📋 Spec-Driven Development
-
-Before writing code, I prefer defining:
-
-* Requirements
-* API contracts
-* System workflows
-* Database structures
-
-This approach helps reduce ambiguity and improves maintainability as projects grow.
+* Design before implementation
+* Build for maintainability
+* Prefer simplicity over unnecessary complexity
+* Write APIs with clear contracts
+* Automate repetitive workflows whenever possible
+* Continuously improve through iteration and feedback
 
 ---
 
-## 📚 Currently Learning
+## Engineering Stack
+
+| Area | Technologies |
+|------|--------------|
+| **Languages** | Java • Python • C++ • JavaScript |
+| **Backend** | Spring Boot • REST APIs • Spring Security • Spring MVC |
+| **Frontend** | React • Tailwind CSS • HTML |
+| **Data** | MySQL • MongoDB |
+| **Cloud** | Docker • Git • GitHub • CI/CD *(Learning)* |
+| **AI Workflow** | ChatGPT • Cursor • GitHub Copilot |
+
+---
+
+## Currently Learning
 
 * Advanced Spring Boot
+* Cloud Engineering (AWS)
+* CI/CD Pipelines
 * Distributed Systems Fundamentals
-* Microservices Concepts
-* Cloud Deployment & CI/CD
+* Microservices Architecture
 * Advanced DSA Patterns
-* Scalable Backend Architecture
 
 ---
 
-## 📫 Connect With Me
-
-* LinkedIn: [www.linkedin.com/in/mehul-prajapati-515945347]
-* Email: [prajapatimehul2610@gmail.com](mailto:prajapatimehul2610@gmail.com)
-
-> Building strong engineering fundamentals while embracing modern tools and workflows.
+> *Good software isn't defined by the amount of code written, but by the quality of the decisions behind it.*
