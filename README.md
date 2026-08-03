@@ -76,6 +76,24 @@ An interactive quantum computing playground designed to make quantum concepts vi
 
 ---
 
+## AI-Assisted Development
+
+I use AI as an engineering accelerator—not as a replacement for understanding.
+
+It helps me with:
+
+- Architecture exploration
+- API design
+- Code reviews
+- Debugging
+- Documentation
+- Test generation
+- Rapid prototyping
+
+The final design, implementation, and engineering decisions remain driven by software fundamentals.
+
+---
+
 ## Currently Learning
 
 * Advanced Spring Boot
