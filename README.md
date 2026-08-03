@@ -4,7 +4,7 @@
 
 **Java • Spring Boot • System Design • Cloud Engineering**
 
-* **Portfolio:** [https://mehuldev.me](www.mehuldev.me)
+* **Portfolio:** [https://mehuldev.me](https://mehuldev.me)
 * **LinkedIn:** [www.linkedin.com/in/mehul-prajapati-515945347](http://www.linkedin.com/in/mehul-prajapati-515945347)
 * **Email:** [prajapatimehul2610@gmail.com](mailto:prajapatimehul2610@gmail.com)
 
