@@ -1,65 +1,46 @@
 # MEHUL PRAJAPATI
-
 ### Engineering software with curiosity and systems thinking.
 
 **Java • Spring Boot • System Design • Cloud Engineering**
 
 * **Portfolio:** [https://mehuldev.me](https://mehuldev.me)
-* **LinkedIn:** [www.linkedin.com/in/mehul-prajapati-515945347](http://www.linkedin.com/in/mehul-prajapati-515945347)
+* **LinkedIn:** [mehul-prajapati](https://www.linkedin.com/in/mehul-prajapati-515945347)
 * **Email:** [prajapatimehul2610@gmail.com](mailto:prajapatimehul2610@gmail.com)
 
 ---
 
 ## Current Mission
-
-Building reliable, maintainable, and scalable software while strengthening the engineering fundamentals behind modern backend systems. My focus is on understanding not only how software works, but why well-designed systems remain resilient as they grow.
-
----
-
-## What I'm Working On
-
-* Developing backend applications using **Java, Spring Boot, and REST APIs**
-* Solving **Data Structures & Algorithms** to improve problem-solving and interview readiness
-* Learning **System Design** and scalable software architecture
-* Exploring **Cloud Engineering**, CI/CD, and deployment workflows
-* Using **AI-assisted development** to accelerate research, prototyping, documentation, and development without compromising engineering fundamentals
+Building reliable, maintainable, and scalable backend software, with a focus on the engineering fundamentals that keep systems resilient as they grow.
 
 ---
 
 ## Featured Projects
 
-### NeuroNudge
+### NeuroNudge — AI-powered burnout awareness platform
+[One line: what does it actually track/analyze, and how — e.g. "Tracks daily activity/mood inputs and flags burnout risk using a rule-based/ML scoring model."]
+- [Key technical detail — e.g. data model, how recommendations are generated]
+- [A number if you have one — users, data points, accuracy]
 
-An AI-powered burnout awareness platform focused on analyzing behavioral patterns and providing meaningful insights through intelligent recommendations.
-
-**Tech Stack:** HTML, CSS, JavaScript, AI Concepts
-
----
-
-### DoseHope
-
-A medicine donation and expiry management platform designed to reduce medicine waste through efficient tracking and donation workflows.
-
-**Tech Stack:** Java, Spring Boot, MongoDB, REST APIs
+**Tech Stack:** Java, Spring Boot, MongoDB, HTML, CSS, JavaScript, AI Concepts
+**Repo:** [https://github.com/mehulprajapati2610/neuronudge] | **Live:** [https://neuronudge-backend.onrender.com/user-dashboard.html]
 
 ---
 
-### Q-SKETCH
+### DoseHope — Medicine donation & expiry tracking platform
+[One line: core workflow — e.g. "REST API backend managing donor/recipient matching and expiry-based inventory alerts."]
+- [Key technical detail — e.g. DB schema highlights, auth approach, notification system]
+- [A number — e.g. endpoints, records handled]
 
-An interactive quantum computing playground designed to make quantum concepts visual, intuitive, and engaging through circuit simulation and educational experiences.
+**Tech Stack:** Java, Spring Boot, REST APIs
+**Repo:** [https://github.com/mehulprajapati2610/DoseHopeProject] | **Live:** [https://dosehope-backend.onrender.com/]
+
+---
+
+### Q-Sketch — Interactive quantum computing playground
+[One line: what the simulator actually does — e.g. "Circuit-based quantum simulator visualizing gate operations and state vectors in the browser."]
+- [Key technical detail — e.g. how simulation logic is implemented]
 
 **Tech Stack:** React, JavaScript, Tailwind CSS
-
----
-
-## Engineering Principles
-
-* Design before implementation
-* Build for maintainability
-* Prefer simplicity over unnecessary complexity
-* Write APIs with clear contracts
-* Automate repetitive workflows whenever possible
-* Continuously improve through iteration and feedback
 
 ---
 
@@ -71,38 +52,9 @@ An interactive quantum computing playground designed to make quantum concepts vi
 | **Backend** | Spring Boot • REST APIs • Spring Security • Spring MVC |
 | **Frontend** | React • Tailwind CSS • HTML |
 | **Data** | MySQL • MongoDB |
-| **Cloud** | Docker • Git • GitHub • CI/CD *(Learning)* |
-| **AI Workflow** | ChatGPT • Cursor • GitHub Copilot |
-
----
-
-## AI-Assisted Development
-
-I use AI as an engineering accelerator—not as a replacement for understanding.
-
-It helps me with:
-
-- Architecture exploration
-- API design
-- Code reviews
-- Debugging
-- Documentation
-- Test generation
-- Rapid prototyping
-
-The final design, implementation, and engineering decisions remain driven by software fundamentals.
+| **Cloud** | Docker • Git • GitHub • CI/CD *(learning)* |
 
 ---
 
 ## Currently Learning
-
-* Advanced Spring Boot
-* Cloud Engineering (AWS)
-* CI/CD Pipelines
-* Distributed Systems Fundamentals
-* Microservices Architecture
-* Advanced DSA Patterns
-
----
-
-> *Good software isn't defined by the amount of code written, but by the quality of the decisions behind it.*
+Advanced Spring Boot • AWS • CI/CD Pipelines • Distributed Systems • Microservices • Advanced DSA
