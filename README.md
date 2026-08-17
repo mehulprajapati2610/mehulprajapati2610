@@ -20,6 +20,7 @@ Building reliable, maintainable, and scalable backend software, with a focus on 
 A digital intervention platform that helps students identify burnout patterns and access guided support through AI interaction, resources, peer support, and professional booking workflows.
 
 **Tech Stack:** Java, Spring Boot, MongoDB, HTML, CSS, JavaScript
+
 **Repo:** [GitHub](https://github.com/mehulprajapati2610/neuronudge) | **Live:** [Demo](https://neuronudge-backend.onrender.com/user-dashboard.html)
 
 ---
@@ -28,6 +29,7 @@ A digital intervention platform that helps students identify burnout patterns an
 Tracks medicine expiry and connects users, donors, and volunteers through a structured donation workflow to help redirect usable medicines before they are wasted.
 
 **Tech Stack:** Java, Spring Boot, REST APIs
+
 **Repo:** [GitHub](https://github.com/mehulprajapati2610/DoseHopeProject) | **Live:** [Demo](https://dosehope-backend.onrender.com/)
 
 ---
