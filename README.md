@@ -17,9 +17,7 @@ Building reliable, maintainable, and scalable backend software, with a focus on 
 ## Featured Projects
 
 ### NeuroNudge — AI-powered burnout awareness platform
-[One line: what does it actually track/analyze, and how]
-- [Key technical detail]
-- [A number if you have one]
+A digital intervention platform that helps students identify burnout patterns and access guided support through AI interaction, resources, peer support, and professional booking workflows.
 
 **Tech Stack:** Java, Spring Boot, MongoDB, HTML, CSS, JavaScript
 **Repo:** [GitHub](https://github.com/mehulprajapati2610/neuronudge) | **Live:** [Demo](https://neuronudge-backend.onrender.com/user-dashboard.html)
@@ -27,9 +25,7 @@ Building reliable, maintainable, and scalable backend software, with a focus on 
 ---
 
 ### DoseHope — Medicine donation & expiry tracking platform
-[One line: core workflow]
-- [Key technical detail]
-- [A number]
+Tracks medicine expiry and connects users, donors, and volunteers through a structured donation workflow to help redirect usable medicines before they are wasted.
 
 **Tech Stack:** Java, Spring Boot, REST APIs
 **Repo:** [GitHub](https://github.com/mehulprajapati2610/DoseHopeProject) | **Live:** [Demo](https://dosehope-backend.onrender.com/)
@@ -37,11 +33,9 @@ Building reliable, maintainable, and scalable backend software, with a focus on 
 ---
 
 ### Q-Sketch — Interactive quantum computing playground
-[One line: what the simulator actually does]
-- [Key technical detail]
+An interactive quantum computing playground where users can apply quantum gates, observe state changes, simulate simple circuits, and learn through visual experimentation.
 
 **Tech Stack:** React, JavaScript, Tailwind CSS
-**Repo:** [add link] | **Live:** [add link]
 
 ---
 
