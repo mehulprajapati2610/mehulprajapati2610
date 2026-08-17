@@ -17,30 +17,31 @@ Building reliable, maintainable, and scalable backend software, with a focus on 
 ## Featured Projects
 
 ### NeuroNudge — AI-powered burnout awareness platform
-[One line: what does it actually track/analyze, and how — e.g. "Tracks daily activity/mood inputs and flags burnout risk using a rule-based/ML scoring model."]
-- [Key technical detail — e.g. data model, how recommendations are generated]
-- [A number if you have one — users, data points, accuracy]
+[One line: what does it actually track/analyze, and how]
+- [Key technical detail]
+- [A number if you have one]
 
-**Tech Stack:** Java, Spring Boot, MongoDB, HTML, CSS, JavaScript, AI Concepts
-**Repo:** [https://github.com/mehulprajapati2610/neuronudge] | **Live:** [https://neuronudge-backend.onrender.com/user-dashboard.html]
+**Tech Stack:** Java, Spring Boot, MongoDB, HTML, CSS, JavaScript
+**Repo:** [GitHub](https://github.com/mehulprajapati2610/neuronudge) | **Live:** [Demo](https://neuronudge-backend.onrender.com/user-dashboard.html)
 
 ---
 
 ### DoseHope — Medicine donation & expiry tracking platform
-[One line: core workflow — e.g. "REST API backend managing donor/recipient matching and expiry-based inventory alerts."]
-- [Key technical detail — e.g. DB schema highlights, auth approach, notification system]
-- [A number — e.g. endpoints, records handled]
+[One line: core workflow]
+- [Key technical detail]
+- [A number]
 
 **Tech Stack:** Java, Spring Boot, REST APIs
-**Repo:** [https://github.com/mehulprajapati2610/DoseHopeProject] | **Live:** [https://dosehope-backend.onrender.com/]
+**Repo:** [GitHub](https://github.com/mehulprajapati2610/DoseHopeProject) | **Live:** [Demo](https://dosehope-backend.onrender.com/)
 
 ---
 
 ### Q-Sketch — Interactive quantum computing playground
-[One line: what the simulator actually does — e.g. "Circuit-based quantum simulator visualizing gate operations and state vectors in the browser."]
-- [Key technical detail — e.g. how simulation logic is implemented]
+[One line: what the simulator actually does]
+- [Key technical detail]
 
 **Tech Stack:** React, JavaScript, Tailwind CSS
+**Repo:** [add link] | **Live:** [add link]
 
 ---
 
